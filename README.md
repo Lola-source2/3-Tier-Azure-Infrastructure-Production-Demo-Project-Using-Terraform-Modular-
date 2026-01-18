@@ -85,8 +85,7 @@ The primary goal of this project is to design a secure, scalable, and cost-effic
 
 
 # Architecture Design
-![Architecture Diagram]([3-Tier-Azure-Infrastructure-Production-Demo-Project-Using-Terraform-Modular-
-/3tier Application.drawio (1).png](https://github.com/Lola-source2/3-Tier-Azure-Infrastructure-Production-Demo-Project-Using-Terraform-Modular-/blob/master/3tier%20Application.drawio%20(1).png))
+![Architecture Diagram](https://github.com/Lola-source2/3-Tier-Azure-Infrastructure-Production-Demo-Project-Using-Terraform-Modular-/blob/master/3tier%20Application.drawio%20(1).png)
 
 
 # Why Virtual Machine Scale Set
